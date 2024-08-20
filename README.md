@@ -39,8 +39,6 @@
 
 <br />
 <br />
-<br />
-<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,10 +50,6 @@
 </p>
 <br />
 <br />
-<br />
-
-
-
 
 <p><img style="width:100%;height:150px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedzkullab&show_icons=true&locale=en&layout=compact" alt="mohammedzkullab" /></p>
 
