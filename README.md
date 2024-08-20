@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently getting up-to-date with : **Next.js , React.js , Typescript and software Engineering**
 
-- 📝 I regularly write articles on my linked in account : [https://www.linkedin.com/in/mohammed-kullab/](https://www.linkedin.com/in/mohammed-kullab/)
+- 📝 I regularly write articles on my linked-in account : [https://www.linkedin.com/in/mohammed-kullab/](https://www.linkedin.com/in/mohammed-kullab/)
 
 - 💬 Ask me about **Next.js | React.js | Typescript**
 
